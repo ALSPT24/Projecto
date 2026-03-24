@@ -1,0 +1,1 @@
+ C:\\Projeto\\smart_glyco_ai\\build\\0d9aed6af53555bc247c004305c8b53b\\dart_build_result.json:  C:\\Projeto\\smart_glyco_ai\\.dart_tool\\package_config.json C:\\Projeto\\smart_glyco_ai\\pubspec.yaml C:\\Users\\afons\\flutter\\bin\\cache\\dart-sdk\\version c:\\projeto\\smart_glyco_ai\\.dart_tool\\package_config.json
